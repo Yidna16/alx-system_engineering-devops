@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | tail ^action  
+PATH="$PATH:/snap/bin:/action" | echo $PATH 
