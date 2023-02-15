@@ -1,2 +1,2 @@
 #!/bin/bash
- -p | uniq
+ls -p | uniq
